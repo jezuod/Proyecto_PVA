@@ -1,0 +1,16 @@
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\bin\Debug\Proyecto_pva.exe.config
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\bin\Debug\Proyecto_pva.exe
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\bin\Debug\Proyecto_pva.pdb
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.csproj.AssemblyReference.cache
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.Properties.Resources.resources
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.csproj.GenerateResource.cache
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.csproj.CoreCompileInputs.cache
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.exe
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.pdb
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.Form_login.resources
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.Form_nuevo.resources
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.Form_opciones.resources
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.Form_opciones_admin.resources
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.csproj.ResolveComReference.cache
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.Form_registro.resources
+C:\Users\vaxdi\source\repos\Proyecto_pva\Proyecto_pva\obj\Debug\Proyecto_pva.ejemplos.resources
